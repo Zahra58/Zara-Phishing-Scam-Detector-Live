@@ -29,17 +29,17 @@
 
 **Zara Phishing Detector** is an intelligent, privacy-first web application that helps users identify phishing emails, scam messages, and malicious content in real-time. Using advanced pattern recognition and behavioral analysis, Zara provides instant threat assessments to keep you safe online.
 
-### ✨ Why Zara?
+###  Why Zara?
 
-- 🔒 **100% Private** - All analysis happens in your browser, no data sent to servers
-- ⚡ **Instant Results** - Get threat assessments in under a second
-- 🎨 **Accessible Design** - Color-coded alerts and audio warnings for all users
-- 🧠 **Smart Detection** - Multi-factor analysis with 85%+ accuracy
-- 📱 **Works Everywhere** - Desktop, mobile, and tablet compatible
+-  **100% Private** - All analysis happens in your browser, no data sent to servers
+-  **Instant Results** - Get threat assessments in under a second
+-  **Accessible Design** - Color-coded alerts and audio warnings for all users
+-  **Smart Detection** - Multi-factor analysis with 85%+ accuracy
+-  **Works Everywhere** - Desktop, mobile, and tablet compatible
 
 ---
 
-## 🎯 Features
+##  Features
 
 ### Core Detection Capabilities
 
@@ -52,28 +52,28 @@
 
 ### User Experience
 
-- 🎨 **Color-Coded Threat Levels**
+-  **Color-Coded Threat Levels**
   - 🔴 **HIGH** - Immediate danger, do not interact
   - 🟠 **MEDIUM** - Suspicious, verify sender
   - 🟡 **LOW** - Minor concerns, proceed with caution
   - 🟢 **SAFE** - Appears legitimate
 
-- 🔊 **Audio Alerts** - Audible warnings for high-threat detections
-- 💡 **Hover Effects** - Enhanced accessibility with interactive elements
-- 📊 **Detailed Reports** - Clear explanations of detected red flags
-- 🎯 **Actionable Recommendations** - Specific guidance on next steps
+-  **Audio Alerts** - Audible warnings for high-threat detections
+-  **Hover Effects** - Enhanced accessibility with interactive elements
+-  **Detailed Reports** - Clear explanations of detected red flags
+-  **Actionable Recommendations** - Specific guidance on next steps
 
 ### Privacy & Security
 
-- 🔐 **Zero Data Collection** - No analytics, tracking, or data storage
-- 🌐 **Client-Side Only** - Runs entirely in your browser
-- 🚫 **No API Calls** - No external server communication
-- 🛡️ **Safe Code Analysis** - Malicious code is analyzed, never executed
-- ⚖️ **Ethical Use Policy** - Rate limiting and terms enforcement
+-  **Zero Data Collection** - No analytics, tracking, or data storage
+-  **Client-Side Only** - Runs entirely in your browser
+-  **No API Calls** - No external server communication
+-  **Safe Code Analysis** - Malicious code is analyzed, never executed
+-  **Ethical Use Policy** - Rate limiting and terms enforcement
 
 ---
 
-## 🎬 Demo
+##  Demo
 
 ### Try It Live
 
@@ -111,7 +111,7 @@ Confirm your credit card now or lose access!
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 
 ### Detection Model
 
@@ -153,7 +153,7 @@ User Input → Pattern Matching Engine → Scoring Algorithm → Threat Classifi
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -170,11 +170,11 @@ User Input → Pattern Matching Engine → Scoring Algorithm → Threat Classifi
 
 ### Key Features
 
-- ⚛️ **React Hooks** - Modern state management
-- 🎨 **Tailwind CSS** - Responsive, accessible design
-- 🔒 **Security First** - XSS protection, input sanitization
-- ♿ **WCAG Compliant** - Accessible to all users
-- 📱 **PWA Ready** - Installable on mobile devices
+-  **React Hooks** - Modern state management
+-  **Tailwind CSS** - Responsive, accessible design
+-  **Security First** - XSS protection, input sanitization
+-  **WCAG Compliant** - Accessible to all users
+-  **PWA Ready** - Installable on mobile devices
 
 ---
 
@@ -209,29 +209,29 @@ Zara is built with privacy as the foundation:
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 ### For Individuals
-- 📧 Check suspicious emails before clicking links
-- 💬 Verify text messages from unknown senders
-- 🛒 Validate online shopping communications
-- 💰 Identify financial scam attempts
+-  Check suspicious emails before clicking links
+-  Verify text messages from unknown senders
+-  Validate online shopping communications
+-  Identify financial scam attempts
 
 ### For Organizations
-- 🏢 Employee security awareness training
-- 📚 Educational tool for cybersecurity courses
-- 👴 Elder protection from online fraud
-- 🎓 Student internet safety education
+-  Employee security awareness training
+-  Educational tool for cybersecurity courses
+-  Elder protection from online fraud
+-  Student internet safety education
 
 ### For Developers
-- 🔧 Integration into email clients
-- 🌐 Browser extension foundation
-- 📱 Mobile app adaptation
-- 🤖 Chatbot safety layer
+-  Integration into email clients
+-  Browser extension foundation
+-  Mobile app adaptation
+-  Chatbot safety layer
 
 ---
 
-## 📊 Performance
+##  Performance
 
 | Metric | Value |
 |--------|-------|
@@ -245,7 +245,7 @@ Zara is built with privacy as the foundation:
 
 ---
 
-## 🌟 Roadmap
+##  Roadmap
 
 ### Planned Features
 
@@ -268,20 +268,20 @@ Zara is built with privacy as the foundation:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 While the code is not currently open-source, we welcome:
 
-- 🐛 **Bug Reports** - Help us improve
-- 💡 **Feature Requests** - Share your ideas
-- 📝 **Feedback** - Tell us about your experience
-- 🌍 **Translation** - Help localize Zara
+-  **Bug Reports** - Help us improve
+-  **Feature Requests** - Share your ideas
+-  **Feedback** - Tell us about your experience
+-  **Translation** - Help localize Zara
 
 **Contact:** [your-email@example.com]
 
 ---
 
-## 📜 License
+##  License
 
 This project is proprietary software. All rights reserved.
 
@@ -304,7 +304,7 @@ Special thanks to:
 
 ---
 
-## 📧 Contact
+##  Contact
 
 - **Website:** [https://zara-detector.com](https://zara-detector.com)
 - **Demo:** [https://demo.zara-detector.com](https://demo.zara-detector.com)
@@ -313,7 +313,7 @@ Special thanks to:
 
 ---
 
-## 📝 Citation
+##  Citation
 
 If you use Zara in your research or write about it, please cite:
 
